@@ -28,4 +28,7 @@ L’utente può uscire in qualsiasi momento da una modalità ed effettuare lo sw
 * Modalità tracking (fonte di calore): tramite dei LED IR posizionati è in grado di tracciare e seguire un bersaglio e colpirlo
 * Funzione ricarica munizioni: è possibile ricaricare la torretta inserendo i proiettili in plastica ed è in grado di contare il numero di proiettili inseriti così da tenere sempre aggiornato il numero di proiettili attualmente presenti nel caricatore.
 # Foto e breve funzionamento
+<img src="https://user-images.githubusercontent.com/105540548/168422712-6ec13b6c-9042-4a1e-95c7-2cbdfa925937.jpg" width="500" >
+<img src="https://user-images.githubusercontent.com/105540548/168422716-ab71859b-5e9e-417b-a34d-7d8f9426abe9.jpg" width="500" >
+<img src="https://user-images.githubusercontent.com/105540548/168422717-ae1a94ed-c4cf-492e-938e-d7754121052a.jpg"  width="500" >
 

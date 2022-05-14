@@ -27,4 +27,5 @@ L’utente può uscire in qualsiasi momento da una modalità ed effettuare lo sw
 * Modalità ultrasensore: tramite il sensore ultrasonico la torretta scansiona il suo angolo di visione per trovare un possibile ostacolo/nemico e colpirlo
 * Modalità tracking (fonte di calore): tramite dei LED IR posizionati è in grado di tracciare e seguire un bersaglio e colpirlo
 * Funzione ricarica munizioni: è possibile ricaricare la torretta inserendo i proiettili in plastica ed è in grado di contare il numero di proiettili inseriti così da tenere sempre aggiornato il numero di proiettili attualmente presenti nel caricatore.
+# Foto e breve funzionamento
 

@@ -31,5 +31,5 @@ L’utente può uscire in qualsiasi momento da una modalità ed effettuare lo sw
 <img src="https://user-images.githubusercontent.com/105540548/168422712-6ec13b6c-9042-4a1e-95c7-2cbdfa925937.jpg" width="500">
 <img src="https://user-images.githubusercontent.com/105540548/168422716-ab71859b-5e9e-417b-a34d-7d8f9426abe9.jpg" width="500">
 <img src="https://user-images.githubusercontent.com/105540548/168422717-ae1a94ed-c4cf-492e-938e-d7754121052a.jpg"  width="500">
-<video src="https://user-images.githubusercontent.com/105540548/168423270-3925c390-75b0-450e-8b7c-db580dda27f9.mp4" type="video/mp4">
+https://user-images.githubusercontent.com/105540548/168423270-3925c390-75b0-450e-8b7c-db580dda27f9.mp4
 
